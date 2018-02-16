@@ -1,4 +1,5 @@
 class User < ApplicationRecord
+  has_many :authentications
   has_many :emails
 
   # Include default devise modules. Others available are:
