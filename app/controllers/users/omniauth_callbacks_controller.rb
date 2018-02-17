@@ -1,8 +1,13 @@
 class Users::OmniauthCallbacksController < Devise::OmniauthCallbacksController
   def callback
-    @user = AuthenticationService.new(omniauth).find_or_create
-    sign_in_and_redirect @user, event: :authentication
-    set_flash_message(:notice, :success, kind: omniauth[:provider])
+    result = Authentication::FindOrCreate.call(omniauth: omniauth)
+
+    if result[:user]
+      sign_in_and_redirect result[:user], event: :authentication
+      return set_flash_message(:notice, :success, kind: omniauth[:provider])
+    end
+
+    failure
   end
   alias_method :facebook, :callback
   alias_method :google_oauth2, :callback
