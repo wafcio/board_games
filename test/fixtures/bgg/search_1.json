@@ -1,0 +1,17 @@
+{
+  "items": {
+    "total": "1",
+    "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
+    "item": {
+      "type": "boardgame",
+      "id": "191051",
+      "name": {
+        "type": "alternate",
+        "value": "Ocaleni"
+      },
+      "yearpublished": {
+        "value": "2017"
+      }
+    }
+  }
+}

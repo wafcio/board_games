@@ -103,6 +103,8 @@ GEM
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     hashie (3.5.7)
+    httparty (0.16.0)
+      multi_xml (>= 0.5.2)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     jbuilder (2.7.0)
@@ -157,6 +159,7 @@ GEM
       oauth2 (~> 1.1)
       omniauth (~> 1.2)
     orm_adapter (0.5.0)
+    ox (2.8.2)
     pipetree (0.1.1)
     popper_js (1.12.9)
     public_suffix (3.0.2)
@@ -283,12 +286,14 @@ DEPENDENCIES
   devise-multi_email
   dotenv-rails
   font-awesome-rails
+  httparty
   jbuilder (~> 2.5)
   jquery-rails
   listen (>= 3.0.5, < 3.2)
   omniauth-facebook
   omniauth-google-oauth2
   omniauth-linkedin
+  ox
   puma (~> 3.7)
   rails (~> 5.1.4)
   sass-rails (~> 5.0)

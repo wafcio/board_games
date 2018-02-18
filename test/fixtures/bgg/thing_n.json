@@ -1,0 +1,519 @@
+{
+  "items": {
+    "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
+    "item": [
+      {
+        "type": "boardgame",
+        "id": "191051",
+        "thumbnail": "https://cf.geekdo-images.com/images/pic3021719_t.jpg",
+        "image": "https://cf.geekdo-images.com/images/pic3021719.jpg",
+        "name": [
+          {
+            "type": "primary",
+            "sortindex": "1",
+            "value": "Outlive"
+          },
+          {
+            "type": "alternate",
+            "sortindex": "1",
+            "value": "Ocaleni"
+          },
+          {
+            "type": "alternate",
+            "sortindex": "1",
+            "value": "Pustina"
+          },
+          {
+            "type": "alternate",
+            "sortindex": "1",
+            "value": "Еще один день"
+          }
+        ],
+        "description": "Outlive is a management/survival game in a post-apocalyptic universe in which nature has overcome its rights amongst the world of Men. In Outlive, players have six days (turns) to send heroes gathering resources during the day, while avoiding threats from other players and reinforce their settlements during the night, trying to recruit new survivors and adapt to the new world. The specificities: movements and resource gathering are compelled by you heroes strength.&#10;&#10;You play six rounds (six days) that are divided between the day phase and the night phase. During the day phase, you move your four heroes of different strength on the board to collect resources with a mechanical movement innovative and interactive.&#10;&#10;During the night phase, you manage your shelter, feed your survivors and recruit new ones, organize your survival, and improve your rooms and objects.&#10;&#10;Only one clan can outlive this devastated world!&#10;&#10;",
+        "yearpublished": {
+          "value": "2017"
+        },
+        "minplayers": {
+          "value": "2"
+        },
+        "maxplayers": {
+          "value": "4"
+        },
+        "poll": [
+          {
+            "name": "suggested_numplayers",
+            "title": "User Suggested Number of Players",
+            "totalvotes": "25",
+            "results": [
+              {
+                "numplayers": "1",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "1"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "7"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "6"
+                  }
+                ]
+              },
+              {
+                "numplayers": "2",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "1"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "11"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "3"
+                  }
+                ]
+              },
+              {
+                "numplayers": "3",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "10"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "8"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "0"
+                  }
+                ]
+              },
+              {
+                "numplayers": "4",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "15"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "4"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "1"
+                  }
+                ]
+              },
+              {
+                "numplayers": "4+",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "10"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "suggested_playerage",
+            "title": "User Suggested Player Age",
+            "totalvotes": "6",
+            "results": {
+              "result": [
+                {
+                  "value": "2",
+                  "numvotes": "0"
+                },
+                {
+                  "value": "3",
+                  "numvotes": "0"
+                },
+                {
+                  "value": "4",
+                  "numvotes": "0"
+                },
+                {
+                  "value": "5",
+                  "numvotes": "0"
+                },
+                {
+                  "value": "6",
+                  "numvotes": "0"
+                },
+                {
+                  "value": "8",
+                  "numvotes": "0"
+                },
+                {
+                  "value": "10",
+                  "numvotes": "1"
+                },
+                {
+                  "value": "12",
+                  "numvotes": "2"
+                },
+                {
+                  "value": "14",
+                  "numvotes": "3"
+                },
+                {
+                  "value": "16",
+                  "numvotes": "0"
+                },
+                {
+                  "value": "18",
+                  "numvotes": "0"
+                },
+                {
+                  "value": "21 and up",
+                  "numvotes": "0"
+                }
+              ]
+            }
+          },
+          {
+            "name": "language_dependence",
+            "title": "Language Dependence",
+            "totalvotes": "6",
+            "results": {
+              "result": [
+                {
+                  "level": "1",
+                  "value": "No necessary in-game text",
+                  "numvotes": "0"
+                },
+                {
+                  "level": "2",
+                  "value": "Some necessary text - easily memorized or small crib sheet",
+                  "numvotes": "4"
+                },
+                {
+                  "level": "3",
+                  "value": "Moderate in-game text - needs crib sheet or paste ups",
+                  "numvotes": "1"
+                },
+                {
+                  "level": "4",
+                  "value": "Extensive use of text - massive conversion needed to be playable",
+                  "numvotes": "1"
+                },
+                {
+                  "level": "5",
+                  "value": "Unplayable in another language",
+                  "numvotes": "0"
+                }
+              ]
+            }
+          }
+        ],
+        "playingtime": {
+          "value": "110"
+        },
+        "minplaytime": {
+          "value": "40"
+        },
+        "maxplaytime": {
+          "value": "110"
+        },
+        "minage": {
+          "value": "14"
+        },
+        "link": [
+          {
+            "type": "boardgamecategory",
+            "id": "1016",
+            "value": "Science Fiction"
+          },
+          {
+            "type": "boardgamemechanic",
+            "id": "2082",
+            "value": "Worker Placement"
+          },
+          {
+            "type": "boardgamefamily",
+            "id": "8374",
+            "value": "Crowdfunding: Kickstarter"
+          },
+          {
+            "type": "boardgamefamily",
+            "id": "41799",
+            "value": "Post-Apocalyptic"
+          },
+          {
+            "type": "boardgameexpansion",
+            "id": "228048",
+            "value": "Outlive: Kickstarter Exclusives"
+          },
+          {
+            "type": "boardgameexpansion",
+            "id": "243965",
+            "value": "Outlive: Leader – Greg & Emmy"
+          },
+          {
+            "type": "boardgamedesigner",
+            "id": "88524",
+            "value": "Grégory Oliver"
+          },
+          {
+            "type": "boardgameartist",
+            "id": "12016",
+            "value": "Miguel Coimbra"
+          },
+          {
+            "type": "boardgamepublisher",
+            "id": "27121",
+            "value": "La Boite de Jeu"
+          },
+          {
+            "type": "boardgamepublisher",
+            "id": "4304",
+            "value": "Albi"
+          },
+          {
+            "type": "boardgamepublisher",
+            "id": "3475",
+            "value": "Arclight"
+          },
+          {
+            "type": "boardgamepublisher",
+            "id": "37681",
+            "value": "Fabrika Igr"
+          },
+          {
+            "type": "boardgamepublisher",
+            "id": "34778",
+            "value": "Last Level"
+          },
+          {
+            "type": "boardgamepublisher",
+            "id": "39",
+            "value": "Pegasus Spiele"
+          },
+          {
+            "type": "boardgamepublisher",
+            "id": "3242",
+            "value": "Raven Distribution"
+          },
+          {
+            "type": "boardgamepublisher",
+            "id": "7466",
+            "value": "Rebel"
+          },
+          {
+            "type": "boardgamepublisher",
+            "id": "36763",
+            "value": "Surfin' Meeple China"
+          }
+        ]
+      },
+      {
+        "type": "boardgame",
+        "id": "2007",
+        "thumbnail": "https://cf.geekdo-images.com/images/pic1289143_t.jpg",
+        "image": "https://cf.geekdo-images.com/images/pic1289143.jpg",
+        "name": {
+          "type": "primary",
+          "sortindex": "1",
+          "value": "Votum"
+        },
+        "description": "from the game rules translation&#10;&#10;A true-to-life game about election victories and majorities &#10;for 4 to 6 players.&#10;The unique game VOTUM allows you to play the exciting role of a party leader, who might belong to the generation of the grandsons of the present-day greats. &#10;Votum is a fast and talkative, sometimes loud and often clever game: it requires decisive bargaining, a little luck, and, above all, else the gift of negotiation. &#10;Each player is responsible as the trustworthy chairman of a political party, whom he leads through three legislative sessions, that is, game rounds. During each session, five elections take place followed by the formation of the government. The goal is to advance as far as possible in the parliament. Advancement comes, on the one hand, through luck (namely, your cards) and the way you use it, that is, playing the right cards at the right time, and, on the other hand, through skillful negotiation with your fellow players about posts and their related points. &#10;Success is measured in points. Each player has a sixth of the game field (the plenary hall) in front of him, his points are marked in the track of his color. After 15 elections, the strongest party-chairman wins; that is, the one with the most points.&#10;&#10;",
+        "yearpublished": {
+          "value": "1987"
+        },
+        "minplayers": {
+          "value": "4"
+        },
+        "maxplayers": {
+          "value": "6"
+        },
+        "poll": [
+          {
+            "name": "suggested_numplayers",
+            "title": "User Suggested Number of Players",
+            "totalvotes": "0",
+            "results": [
+              {
+                "numplayers": "1",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "0"
+                  }
+                ]
+              },
+              {
+                "numplayers": "2",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "0"
+                  }
+                ]
+              },
+              {
+                "numplayers": "3",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "0"
+                  }
+                ]
+              },
+              {
+                "numplayers": "4",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "0"
+                  }
+                ]
+              },
+              {
+                "numplayers": "5",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "0"
+                  }
+                ]
+              },
+              {
+                "numplayers": "6",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "0"
+                  }
+                ]
+              },
+              {
+                "numplayers": "6+",
+                "result": [
+                  {
+                    "value": "Best",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Recommended",
+                    "numvotes": "0"
+                  },
+                  {
+                    "value": "Not Recommended",
+                    "numvotes": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "suggested_playerage",
+            "title": "User Suggested Player Age",
+            "totalvotes": "0",
+            "__content__": " "
+          },
+          {
+            "name": "language_dependence",
+            "title": "Language Dependence",
+            "totalvotes": "0",
+            "__content__": " "
+          }
+        ],
+        "playingtime": {
+          "value": "0"
+        },
+        "minplaytime": {
+          "value": "0"
+        },
+        "maxplaytime": {
+          "value": "0"
+        },
+        "minage": {
+          "value": "14"
+        },
+        "link": [
+          {
+            "type": "boardgamecategory",
+            "id": "1001",
+            "value": "Political"
+          },
+          {
+            "type": "boardgamedesigner",
+            "id": "365",
+            "value": "Roland Siegers"
+          },
+          {
+            "type": "boardgamepublisher",
+            "id": "93",
+            "value": "Mattel"
+          }
+        ]
+      }
+    ]
+  }
+}
